@@ -1,0 +1,61 @@
+{
+  "category": "iot-platforms",
+  "created_date": "2025-09-15T22:48:59.319659",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "thingsboard is a free and open-source IoT platform. ThingsBoard provides open-source IoT platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/iot-platforms/thingsboard",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/iot-platforms/thingsboard",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.319681",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "thingsboard",
+  "repository_url": "https://github.com/howtomgr/thingsboard",
+  "spec_version": "2.0",
+  "subcategory": "iot-platforms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "iot-platforms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "thingsboard Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/iot-platforms/thingsboard"
+}
